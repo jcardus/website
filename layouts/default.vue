@@ -1,12 +1,16 @@
 <template>
   <div>
     <b-navbar toggleable="lg" type="dark" variant="info">
-      <b-navbar-brand href="#">
+      <b-navbar-brand href="/">
         <img src="/fleetmap.png" style="width: 70px" alt="">
       </b-navbar-brand>
       <b-navbar-toggle target="nav-collapse" />
       <b-collapse id="nav-collapse" is-nav>
-        <b-navbar-nav class="ml-auto" />
+        <b-navbar-nav class="ml-auto">
+          <b-nav-item href="/privacy">
+            Privacy
+          </b-nav-item>
+        </b-navbar-nav>
       </b-collapse>
     </b-navbar>
     <Nuxt />
