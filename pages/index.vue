@@ -1,11 +1,11 @@
 <template>
   <b-jumbotron>
     <template #header>
-      Fleetmap
+      Lemavisima Unipessoal
     </template>
 
     <template #lead>
-      A Tracking and fleet management platform to grow your business. Personalized and scalable oriented to loT.
+      We provide Fleetmap - a Tracking and fleet management platform to grow your business. Personalized and scalable oriented to loT.
     </template>
 
     <hr class="my-4">
