@@ -13,7 +13,7 @@
       <p>
         You can reach us at the following channels:
         <br>Email: admin@fleetmap.io
-        <br>Phone: +351967167715<br>
+        <br>Phone: +1 601 633 1143<br>
         <a href="https://fleetmap.freshdesk.com/">https://fleetmap.freshdesk.com/</a><br>
         16192 Coastal Hwy
         Lewes, Delaware DE 19958
